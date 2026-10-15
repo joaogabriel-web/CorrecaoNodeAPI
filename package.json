@@ -1,0 +1,24 @@
+{
+  "name": "correcaonodeapi",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/joaogabriel-web/CorrecaoNodeAPI#readme",
+  "bugs": {
+    "url": "https://github.com/joaogabriel-web/CorrecaoNodeAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogabriel-web/CorrecaoNodeAPI.git"
+  },
+  "license": "ISC",
+  "author": "joao gabriel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
